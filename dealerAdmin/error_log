@@ -1,0 +1,106 @@
+[15-Aug-2025 16:09:02 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[15-Aug-2025 16:09:39 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[15-Aug-2025 16:10:24 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[15-Aug-2025 16:24:45 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[15-Aug-2025 16:26:06 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[15-Aug-2025 16:41:53 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[15-Aug-2025 16:41:55 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[16-Aug-2025 17:21:01 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[16-Aug-2025 17:25:36 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[16-Aug-2025 17:32:47 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[16-Aug-2025 17:46:19 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php:18
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php(18): mysqli->__construct()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(8): DBConnection->__construct()
+#2 /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php(190): SystemSettings->__construct()
+#3 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once('/home/smarsazo/...')
+#4 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#5 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/DBConnection.php on line 18
+[16-Aug-2025 17:48:32 Asia/Manila] PHP Warning:  require_once(../config.php): Failed to open stream: No such file or directory in /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php on line 3
+[16-Aug-2025 17:48:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php:3
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/config.php(9): require_once()
+#1 /home/smarsazo/public_html/dealerAdmin/index.php(2): require_once('/home/smarsazo/...')
+#2 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/SystemSettings.php on line 3

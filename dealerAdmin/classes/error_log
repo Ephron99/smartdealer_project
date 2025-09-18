@@ -1,0 +1,36 @@
+[19-Aug-2025 02:28:44 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/classes/Master.php:65
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(65): mysqli->query()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(611): Master->delete_supplier()
+#2 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/Master.php on line 65
+[19-Aug-2025 03:02:44 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/classes/Master.php:65
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(65): mysqli->query()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(611): Master->delete_supplier()
+#2 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/Master.php on line 65
+[22-Aug-2025 20:12:20 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/classes/Master.php:65
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(65): mysqli->query()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(611): Master->delete_supplier()
+#2 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/Master.php on line 65
+[22-Aug-2025 20:12:22 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/classes/Master.php:65
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(65): mysqli->query()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(611): Master->delete_supplier()
+#2 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/Master.php on line 65
+[22-Aug-2025 20:12:28 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/classes/Master.php:65
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(65): mysqli->query()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(611): Master->delete_supplier()
+#2 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/Master.php on line 65
+[01-Sep-2025 16:14:31 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.return_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/classes/Master.php:494
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(494): mysqli->query()
+#1 /home/smarsazo/public_html/dealerAdmin/classes/Master.php(638): Master->delete_return()
+#2 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/classes/Master.php on line 494
