@@ -1,0 +1,25 @@
+[19-Aug-2025 02:28:27 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/manage_supplier.php:4
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/admin/maintenance/manage_supplier.php(4): mysqli->query()
+#1 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/manage_supplier.php on line 4
+[22-Aug-2025 20:12:32 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/manage_supplier.php:4
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/admin/maintenance/manage_supplier.php(4): mysqli->query()
+#1 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/manage_supplier.php on line 4
+[23-Aug-2025 17:01:12 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php:3
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php(3): mysqli->query()
+#1 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php on line 3
+[23-Aug-2025 17:16:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php:3
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php(3): mysqli->query()
+#1 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php on line 3
+[23-Aug-2025 17:19:31 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'smarsazo_smartdealer.supplier_list' doesn't exist in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php:3
+Stack trace:
+#0 /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php(3): mysqli->query()
+#1 {main}
+  thrown in /home/smarsazo/public_html/dealerAdmin/admin/maintenance/view_supplier.php on line 3
